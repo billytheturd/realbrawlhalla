@@ -6,10 +6,10 @@ body {
 }
 
 h1 {
-  position: fixed;
+  position: center;
   top: 20px;
   left: 20px;
-  font-size: 6em;
+  font-size: 5em;
 }
 
 h2 {
