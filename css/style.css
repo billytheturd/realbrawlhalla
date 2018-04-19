@@ -2,6 +2,7 @@ body {
 	font-family: 'Black Han Sans', sans-serif;
 	background-color: #808080;
 	color: #0fd0c1;
+	overflow-x: none;
 }
 
 h1 {
