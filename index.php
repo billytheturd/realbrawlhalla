@@ -15,7 +15,7 @@
     </head>
     <body>
       <header>
-        <h1><a style="color:#0fd0c1" href="https://www.brawlhalla.com/news/page/18News">NEWS</a></h1>
+        <h1>Billythe3rd Season High Elo : 1440</h1>  
       </header>
       <section class="image-1"></section>
       <section class="text-section">
@@ -27,8 +27,7 @@
         <section id = "animation-1"></section>
       <footer>
         <a href="https://twitter.com/Brawlhalla">Twitter</a> /
-        <a href="https://www.instagram.com/brawlhalla/">Instagram</a> /
-        <a>Billythe3rd Season High Elo : 1440</a>
+        <a href="https://www.instagram.com/brawlhalla/">Instagram</a>
       </footer>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.js"></script>
       <script src="js/app.js"></script>
