@@ -16,6 +16,7 @@
     <body>
       <header>
         <h1><a style="color:#0fd0c1" href="https://www.brawlhalla.com/news/page/18News">NEWS</a></h1>
+        <h1 style="color:#0fd0c1">Billythe3rd Season Elo: 1440</h1>
       </header>
       <section class="image-1"></section>
       <section class="text-section">
