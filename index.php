@@ -15,7 +15,7 @@
     </head>
     <body>
       <header>
-        <h1>Billythe3rd Season High Elo : 1440</h1>  
+        <h1 align="center">Billythe3rd Season High Elo : 1440</h1>  
       </header>
       <section class="image-1"></section>
       <section class="text-section">
