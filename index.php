@@ -15,12 +15,12 @@
     </head>
     <body>
       <header>
-        <h1 style="position: static !important;" align="center">Billythe3rd Season High Elo : 1463</h1>  
+        <h1 style="position: static !important;" align="center">Billythe3rd Season High Elo : 1463</h1>
       </header>
       <section class="image-1"></section>
       <section class="text-section">
       <h2><a style="color:#0fd0c1" href="https://www.youtube.com/watch?v=K4RO9_eS3aw">JIRO</a></h2>
-        <p>"New Character Jiro has scythe and sword with pink smoke signatures. With both scythe and sword people should prepare themselves for some salty players."</p>
+        <p>"Confirmed that Jiro is not as good as we thought he would be."</p>
       </section>
       <section class="image-3"></section>
       <section class="image-4"></section>
